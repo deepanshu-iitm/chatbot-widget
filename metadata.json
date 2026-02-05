@@ -1,0 +1,7 @@
+{
+  "name": "Chat Widget",
+  "description": "A high-performance, aesthetically pleasing chatbot widget designed for seamless website integration. Features intelligent Gemini-powered responses, quick-reply buttons, and elegant lead collection flows.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
